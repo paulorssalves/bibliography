@@ -1,3 +1,3 @@
-# biblography
+# bibliography
 
 my biblatex bibliographies
